@@ -1,0 +1,22 @@
+{>"layouts/master" /}
+{<title}
+    About TekBooks
+{/title}
+
+{<body}
+    <div class="row">
+        <div class="large-12 columns">
+            <h2>About Us</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel ullamcorper elit. Integer efficitur eros magna, vel lobortis mi faucibus at. Praesent pharetra auctor pretium. Vestibulum non nunc fringilla, suscipit lectus id, hendrerit justo. Duis venenatis pharetra metus. Ut rhoncus posuere nibh in maximus. Sed tristique ligula non facilisis cursus. In fermentum erat iaculis quam molestie ultricies et quis mi.
+
+                Nullam eu convallis eros. Nullam varius nibh a tristique elementum. Donec elit purus, facilisis id mauris eu, egestas lobortis dui. Nullam tempor scelerisque odio sed dapibus. Suspendisse eget cursus augue. Integer sed volutpat lectus. Maecenas tincidunt tincidunt mi non lacinia. Aenean quis commodo ante. Nam faucibus tempus tortor, et scelerisque lacus consequat nec. Maecenas ut mattis dolor. Fusce placerat fringilla velit, a ornare eros vehicula nec.
+
+                Cras ultricies mi sed leo ultrices, vitae eleifend nisl tincidunt. Fusce et mauris non nisi venenatis egestas. Aenean porta, nisi sit amet auctor tincidunt, mauris metus imperdiet libero, at ornare est lacus vitae tellus. Etiam imperdiet ante non nisl facilisis, ac rhoncus nibh condimentum. Duis condimentum arcu in augue iaculis finibus. Suspendisse non leo sem. Etiam aliquam bibendum risus ut egestas. Duis rhoncus tellus et vehicula tristique. Sed sollicitudin condimentum lectus, non sollicitudin nibh fermentum id.
+            </p>
+            <p>
+                Duis ullamcorper, quam id suscipit maximus, sapien massa vestibulum velit, sit amet volutpat libero justo eget urna. Nulla facilisi. Suspendisse est quam, pellentesque ut viverra non, interdum eget ex. Aenean rutrum cursus quam, sit amet molestie lorem elementum sit amet. Phasellus vulputate turpis in libero dictum, non auctor eros porttitor. Fusce tortor lacus, efficitur vel leo eu, venenatis finibus nunc. Donec nec lorem scelerisque turpis aliquet convallis. Nunc pharetra nec lorem et posuere. Sed semper enim ac sem hendrerit, sit amet rhoncus ex pretium. In hac habitasse platea dictumst. Aliquam molestie in nulla in posuere. Phasellus porta at ex nec tempus. Sed non mi gravida, porttitor dolor id, elementum nisi. Morbi rhoncus non purus vitae sagittis. Sed nec massa urna. Vivamus eget odio in risus ullamcorper euismod non et dolor.
+            </p>
+        </div>
+    </div>
+{/body}
